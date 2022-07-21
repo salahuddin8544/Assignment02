@@ -235,6 +235,8 @@ span{
  }
  .social-link a{
     color: white;
+ }.social-link a:hover{
+    color: tomato;
  }
  .social-link i {
     font-size: 40px;
